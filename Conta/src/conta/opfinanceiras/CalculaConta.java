@@ -1,5 +1,7 @@
 package conta.opfinanceiras;
 
+import conta.modelo.Conta;
+
 public class CalculaConta implements OperacoesFinanceiras {
 	
 	private Conta conta;

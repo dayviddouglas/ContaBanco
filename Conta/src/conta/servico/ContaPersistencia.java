@@ -3,6 +3,9 @@ package conta.servico;
 import java.sql.Connection;
 import java.sql.Statement;
 
+import conta.config.ConexaoMySql;
+import conta.modelo.Conta;
+
 public class ContaPersistencia implements OperacoesConta {
 
 	private ConexaoMySql conexaoMySql;
