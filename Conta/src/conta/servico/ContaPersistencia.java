@@ -1,4 +1,4 @@
-package conta;
+package conta.servico;
 
 import java.sql.Connection;
 import java.sql.Statement;

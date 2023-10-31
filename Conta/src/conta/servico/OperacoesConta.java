@@ -1,4 +1,4 @@
-package conta;
+package conta.servico;
 
 public interface OperacoesConta{
 	

@@ -1,4 +1,4 @@
-package conta;
+package conta.modelo;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

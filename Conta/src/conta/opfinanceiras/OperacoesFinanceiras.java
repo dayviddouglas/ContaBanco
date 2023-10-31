@@ -1,4 +1,4 @@
-package conta;
+package conta.opfinanceiras;
 
 public interface OperacoesFinanceiras {
 	
